@@ -1,0 +1,16 @@
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.Form1.resources
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\net8.0-windows\ConvertToBase64.exe
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\net8.0-windows\ConvertToBase64.deps.json
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\net8.0-windows\ConvertToBase64.runtimeconfig.json
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\net8.0-windows\ConvertToBase64.dll
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\bin\Debug\net8.0-windows\ConvertToBase64.pdb
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.dll
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\refint\ConvertToBase64.dll
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.pdb
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ConvertToBase64.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\ConvertToBase64\ConvertToBase64\obj\Debug\net8.0-windows\ref\ConvertToBase64.dll
